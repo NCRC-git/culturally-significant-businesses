@@ -70,7 +70,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Produced by',
-            image: './images/ncrc-logo.png',
+            image: './images/ncrc-2.png',
             description: '',
             location: {
                 center: [-77.02527, 38.89306],
