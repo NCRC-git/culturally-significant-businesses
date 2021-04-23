@@ -15,7 +15,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<span style=display:block;text-align:center;font-family:Palatino,serif;font-size:80px;margin-top:25px;font-style:italic;line-height:75px;>WASHINGTON, D.C.</span>',
+            description: '<span style=display:block;text-align:center;font-family:Helvetica,serif;font-size:50px;margin-top:25px;line-height:75px;>WASHINGTON, D.C.</span>',
             location: {
                 center: [-77.02527, 38.89306],
                 zoom: 11.43,
@@ -43,7 +43,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<span style=display:block;text-align:left;font-family:Palatino,serif;font-size:40px;margin-top:25px;font-style:bold;line-height:60px;>The pandemic has created many challenges for businesses in D.C. Here are some of their stories.</span>',
+            description: '<span style=display:block;text-align:left;font-family:Helvetica,serif;font-size:40px;margin-top:25px;font-style:bold;line-height:60px;>The pandemic has created many challenges for businesses in D.C. Here are some of their stories.</span>',
             location: {
                 center: [-77.02527, 38.89306],
                 zoom: 11.43,
