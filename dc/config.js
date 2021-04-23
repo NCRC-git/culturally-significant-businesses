@@ -1185,7 +1185,7 @@ var config = {
 
                 {
                     layer: 'not-bw-optical',
-                    opacity: 1
+                    opacity: .8
                 }
             ],
             onChapterExit: [
@@ -1201,7 +1201,7 @@ var config = {
 
                 {
                     layer: 'not-bw-optical',
-                    opacity: 1
+                    opacity: .8
                 }
             ]
         },
@@ -1321,7 +1321,7 @@ var config = {
 
                 {
                     layer: 'not-bw-optical',
-                    opacity: 1
+                    opacity: .8
                 },
 
                 {
@@ -1342,7 +1342,7 @@ var config = {
 
                 {
                     layer: 'not-bw-optical',
-                    opacity: 1
+                    opacity: .8
                 },
 
                 {
@@ -1384,7 +1384,7 @@ var config = {
 
                 {
                     layer: 'not-zawadi',
-                    opacity: 1
+                    opacity: .8
                 }
             ],
             onChapterExit: [
@@ -1405,7 +1405,7 @@ var config = {
 
                 {
                     layer: 'not-zawadi',
-                    opacity: 1
+                    opacity: .8
                 }
             ]
         },
@@ -1503,7 +1503,7 @@ var config = {
 
                 {
                     layer: 'not-zawadi',
-                    opacity: 1
+                    opacity: .8
                 }
             ],
             onChapterExit: [
@@ -1519,7 +1519,7 @@ var config = {
 
                 {
                     layer: 'not-zawadi',
-                    opacity: 1
+                    opacity: .8
                 }
             ]
         },
