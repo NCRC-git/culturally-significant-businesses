@@ -97,9 +97,9 @@ var config = {
         {   id: 'baltimore-redlining-image',
             alignment: 'center',
             hidden: false,
-            title: '',
+            title: 'https://www.flickr.com/photos/ssave/7076761729',
             image: './images/baltimore-redlining-title.jpg',
-            description: 'Foster Avenue and the old cork factory in Baltimore (1965). <cite><p style=line-height:4px;>Photo by George Lane via <a href="https://www.flickr.com/photos/ssave/7076761729">Flickr</a></cite></p>',
+            description: 'Foster Avenue and the old cork factory in Baltimore (1965). <cite><p style=line-height:4px;>Photo by George Lane via <a href="https://www.flickr.com/photos/ssave/with/7076761729/">Flickr</a></cite></p>',
             location: {
                 center: [-76.62, 39.29],
                 zoom: 11.8,
